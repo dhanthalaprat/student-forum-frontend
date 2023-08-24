@@ -5,7 +5,7 @@ import CreatePost from './components/CreatePost';
 function App() {
     return (
         <div className="App">
-            <h1>Student Forum</h1>
+            <h1>Student Forum New</h1>
             <CreatePost />
             <PostList />
         </div>
